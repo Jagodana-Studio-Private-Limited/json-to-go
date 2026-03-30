@@ -1,7 +1,7 @@
 {
-  "name": "{{TOOL_NAME}}",
-  "short_name": "{{TOOL_SHORT_NAME}}",
-  "description": "{{TOOL_DESCRIPTION}}",
+  "name": "JSON to Go Struct Converter",
+  "short_name": "JSON to Go",
+  "description": "Convert any JSON to Go structs instantly. 100% free, browser-based.",
   "icons": [
     {
       "src": "/favicon.svg",
@@ -22,7 +22,7 @@
       "purpose": "any maskable"
     }
   ],
-  "theme_color": "{{BRAND_COLOR}}",
+  "theme_color": "#10b981",
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait-primary",
